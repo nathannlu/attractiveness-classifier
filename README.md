@@ -4,7 +4,7 @@ The motivation behind this project was my realization of how my time spent on Ti
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install.
 
 ```bash
 pip3 install
