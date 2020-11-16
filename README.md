@@ -1,6 +1,6 @@
 # Automating Online Dating
 
-The motivation behind this project was my realization of how my time spent on Tinder could be spent being productive. Thinking of pickup lines is also a pain.
+The motivation behind this project was my realization of how my time spent on Tinder could be spent being productive. Thinking of pickup lines is also a pain. I trained a CNN with Keras on Google Colab with [SCUT-FBP5500 dataset](https://github.com/HCIILAB/SCUT-FBP5500-Database-Release)
 
 ## Installation
 
